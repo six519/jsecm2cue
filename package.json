@@ -1,0 +1,27 @@
+{
+  "name": "jsecm2cue",
+  "version": "0.0.2",
+  "description": "",
+  "main": "./lib/jsecm2cue.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node-gyp rebuild"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/six519/jsecm2cue"
+  },
+  "keywords": [
+    "ecm",
+    "cue",
+    "C++",
+    "Addons"
+  ],
+  "author": "Ferdinand E. Silva",
+  "license": "ISC",
+  "gypfile": true,
+  "bugs": {
+    "url": "https://github.com/six519/jsecm2cue/issues"
+  },
+  "homepage": "https://github.com/six519/jsecm2cue"
+}
