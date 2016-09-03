@@ -1,9 +1,9 @@
 #include <node.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
-#include <sstream.h>
-#include <iostream.h>
+#include <string>
+#include <sstream>
+#include <iostream>
 
 #define ecc_uint8 unsigned char
 #define ecc_uint16 unsigned short
