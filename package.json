@@ -1,7 +1,7 @@
 {
   "name": "jsecm2cue",
-  "version": "0.0.2",
-  "description": "",
+  "version": "0.0.3",
+  "description": "C++ Node Addon To Decode ECM File And Generate Cue File",
   "main": "./lib/jsecm2cue.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
