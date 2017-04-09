@@ -19,6 +19,7 @@ using v8::Number;
 using v8::Object;
 using v8::String;
 using v8::Value;
+using std::memcpy;
 
 void Process(const FunctionCallbackInfo<Value>& args) {
   Isolate* isolate = args.GetIsolate();
